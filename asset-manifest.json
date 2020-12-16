@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/aiden-riddler/chuckApp2/static/css/main.109f697c.chunk.css",
+    "main.js": "/aiden-riddler/chuckApp2/static/js/main.ab93b450.chunk.js",
+    "main.js.map": "/aiden-riddler/chuckApp2/static/js/main.ab93b450.chunk.js.map",
+    "runtime-main.js": "/aiden-riddler/chuckApp2/static/js/runtime-main.8bcfbd04.js",
+    "runtime-main.js.map": "/aiden-riddler/chuckApp2/static/js/runtime-main.8bcfbd04.js.map",
+    "static/js/2.79c88424.chunk.js": "/aiden-riddler/chuckApp2/static/js/2.79c88424.chunk.js",
+    "static/js/2.79c88424.chunk.js.map": "/aiden-riddler/chuckApp2/static/js/2.79c88424.chunk.js.map",
+    "static/js/3.72a1d376.chunk.js": "/aiden-riddler/chuckApp2/static/js/3.72a1d376.chunk.js",
+    "static/js/3.72a1d376.chunk.js.map": "/aiden-riddler/chuckApp2/static/js/3.72a1d376.chunk.js.map",
+    "index.html": "/aiden-riddler/chuckApp2/index.html",
+    "static/css/main.109f697c.chunk.css.map": "/aiden-riddler/chuckApp2/static/css/main.109f697c.chunk.css.map",
+    "static/js/2.79c88424.chunk.js.LICENSE.txt": "/aiden-riddler/chuckApp2/static/js/2.79c88424.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bcfbd04.js",
+    "static/js/2.79c88424.chunk.js",
+    "static/css/main.109f697c.chunk.css",
+    "static/js/main.ab93b450.chunk.js"
+  ]
+}
